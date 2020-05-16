@@ -1,0 +1,7 @@
+var link = document.createElement('A');
+link.href = "https://betchainmedia.com/a8230b4b7?";
+var img = document.createElement('IMG');
+img.src = "https://betchainmedia.com/system/medium_contents/attachments/000/002/458/original/iss-160x600.gif?1567935762";
+link.appendChild(img);
+var scriptTag = document.currentScript;
+scriptTag.parentNode.insertBefore(link, scriptTag);

@@ -1,0 +1,16 @@
+body 
+{
+font-family:Arial, Helvetica;
+font-size: 12px;
+width:80%;
+margin:0 auto;
+}
+
+p
+{
+color:#2f1dd3;
+}
+#firefaucet
+{
+border:5px solid #ff0000;
+}

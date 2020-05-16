@@ -1,0 +1,7 @@
+var link = document.createElement('A');
+link.href = "https://mbitcasinopartners2.com/ad3316142?";
+var img = document.createElement('IMG');
+img.src = "https://mbitcasinopartners2.com/system/medium_contents/attachments/000/002/826/original/mbit-i6o_%281%29.jpg?1570800586";
+link.appendChild(img);
+var scriptTag = document.currentScript;
+scriptTag.parentNode.insertBefore(link, scriptTag);
